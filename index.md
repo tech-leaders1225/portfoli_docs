@@ -1,6 +1,6 @@
 # READ ME
 
-0. [開発環境をローカルに移動する( ver1)](/local_portfolio)
+0. [開発環境をローカルに移動する( ver1)](./local_portfolio.md)
 
 1. Rspecでテストコードを書く。(未作成)
 
